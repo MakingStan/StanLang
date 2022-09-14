@@ -76,7 +76,6 @@ fn get_file_contents() -> String
     let args: Vec<String> = env::args().collect();
     let filename = args.get(1).expect("You have to supply a file name!");
 
-    println!("filename: {}", filename);
     let contents = fs::read_to_string(filename)
         .expect("Should have been able to read the file");
 

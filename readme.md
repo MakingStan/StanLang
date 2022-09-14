@@ -32,8 +32,13 @@ sTaN stAN sTAN sTan sTAn staN sTAn STAn
    |
    > becomes the number 83 if converted with ascii it becomes a capital S
 ```
-
+<h3>Usage</h3>
+```
+./StanLang <file_path>
+```
 
 Thank you for taking a look at another one of my very useless projects!
+
+Also the compiler is probably written really bad for todays standards. :D
 </p>
 
