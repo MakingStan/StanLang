@@ -35,5 +35,8 @@ sTaN stAN sTAN sTan sTAn staN sTAn STAn
 
 
 Thank you for taking a look at another one of my very useless projects!
+
+Also the compiler is probably written really bad :D
+<small>have a nice day!</small>
 </p>
 
